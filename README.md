@@ -2,4 +2,4 @@
 ## Ingenieria Aeronautica
 ### Universidad Pontificia Bolivariana
 
-Este es un repositorio de prueba para el curso de programacion 
+Este es un repositorio para practicas en la clase de programación
